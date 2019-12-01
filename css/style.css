@@ -1,0 +1,62 @@
+.intro{
+	height: 600px;
+	background: url("../images/imagen4.png");
+	background-size: cover;
+	box-shadow: 3px 3px 3px gray;
+	border-radius: 5px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.bos{
+	display: flex;
+	align-content: center;
+	justify-content: center;
+	color: white;
+	text-shadow: 2px 2px 2px black;
+
+}
+
+.vs{
+	color: white;
+	text-shadow: 2px 2px 2px black;
+}
+
+.letra{
+	margin: 0px auto;
+	border-radius: 8px;
+	box-shadow: 3px 3px 3px gray;
+
+}
+
+.CS{
+	background-size: cover;
+}
+
+.cas{
+	height: 500px;
+	width: 100%;
+}
+
+.blo{
+	background-color: #222831; 
+}
+
+.derecha{
+	border-right: 2px solid black;
+}
+
+.izquierda{
+	border-left: 2px solid black;
+}
+
+.let{
+	color: white;
+
+}
+
+.tite{
+	color: white;
+	text-shadow: 3px 3px 3px gray;
+}
